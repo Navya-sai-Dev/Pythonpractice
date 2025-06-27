@@ -1,0 +1,10 @@
+j=99
+for i in range(0,100):
+  print(f'{j} bottles of beer on the wall')
+  print(f'{j} bottles of beer')
+  print("Take one down, pass it around")
+  j=j-1
+
+
+
+
